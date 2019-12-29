@@ -16,9 +16,9 @@ The training images are satellite images currated from Microsoft Bing API and ar
 
 This program has the following python dependencies.
 
-*tensorflow
-*keras
-*open-cv  and 
-*numpy
+* tensorflow
+* keras
+* open-cv  and 
+* numpy
 
 Once the dependencies has been installed, the program can be initiated by running the cnn.py  file in the root directory.
