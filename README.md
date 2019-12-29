@@ -5,7 +5,7 @@ The training is performed using satellite image to map out and predict remote/ru
 
 The prediction of the images are achieved using to dataset: SpaceNet and images from DigitalGlobe satellite using Microsoft Bing API. The satellite images are from Nigeria, CAR, Sierra-Leone, Guatemela,Gambia and Lesotho with  dimension of 1km by 1km tiles.
 
-the figure below show a sample satellite image from the Spacenet Dataset
+The figure below shows a sample satellite image from the Spacenet Dataset
 
 ![object Labels in SpaceNet. The blue regions are non-bounding box labels for building footprints](sample.jpg)
 
